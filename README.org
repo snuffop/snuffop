@@ -1,8 +1,8 @@
 * 👋 Hi I'm Marty Buchaus
 My Nickname has been snuffy for years,  and when I started the BBS trek in the 90's and became a [[https://www.zdnet.com/article/when-bbs-sysops-ruled-the-earth/][SysOp]] and ran a [[https://en.wikipedia.org/wiki/Renegade_(BBS)][Renegade BBS]] it turned into "snuffop"
-Check out the Current[[https://snuffy.org][Blog]]
+Check out the Current [[https://snuffy.org][Blog]]
 
 - 🔭 I’m currently working on - My new house in florida
-- 🌱 I’m currently learning  Red Team  ethical hacking
+- 🌱 I’m currently learning  Red Team  ethical hacking and applying it to Servers
 - 💬 Ask me about  Slappin da Bass
 - 😄 Pronouns: A word that can function as a noun phrase used by itself and that refers either to the participants in the discourse (e.g. I, you) or to someone or something mentioned elsewhere in the discourse (e.g. she, it, this) !! CHOSEN BY THE SPEAKER NOT DEFINED BY THE REFERED !!
