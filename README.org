@@ -2,7 +2,10 @@
 My Nickname has been snuffy for years,  and when I started the BBS trek in the 90's and became a [[https://www.zdnet.com/article/when-bbs-sysops-ruled-the-earth/][SysOp]] and ran a [[https://en.wikipedia.org/wiki/Renegade_(BBS)][Renegade BBS]] it turned into "snuffop"
 Check out the Current [[https://snuffy.org][Blog]]
 
-- 🔭 I’m currently working on - My new house in florida
+- 🔭 I’m currently working on 
+  - My new house in Florida
+    - The Shed Office (SHoffice)
+    - Plethora of vegitation 
 - 🌱 I’m currently learning  Red Team  ethical hacking and applying it to Servers
 - 💬 Ask me about  Slappin da Bass  [[https://snuffy.org/linksreference/][Links to recordings]]
 
